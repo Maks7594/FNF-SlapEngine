@@ -1,0 +1,4 @@
+Value1 controls how much the camera zooms in.
+Value2 is useless
+
+Refer to the stage json file for the default zoom value.

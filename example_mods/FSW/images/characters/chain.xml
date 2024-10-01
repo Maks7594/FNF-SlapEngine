@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chain.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="chain idle0000" x="3379" y="564" width="424" height="583" frameX="-141" frameY="-133" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0001" x="1967" y="0" width="516" height="606" frameX="-99" frameY="-110" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0002" x="0" y="2309" width="484" height="589" frameX="-73" frameY="-127" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0003" x="3819" y="593" width="322" height="591" frameX="-206" frameY="-125" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0004" x="3819" y="0" width="322" height="593" frameX="-204" frameY="-123" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0005" x="3819" y="0" width="322" height="593" frameX="-204" frameY="-123" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0006" x="3819" y="0" width="322" height="593" frameX="-204" frameY="-123" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0007" x="3819" y="0" width="322" height="593" frameX="-204" frameY="-123" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0008" x="3819" y="0" width="322" height="593" frameX="-204" frameY="-123" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain idle0009" x="3819" y="0" width="322" height="593" frameX="-204" frameY="-123" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain up0000" x="2907" y="1135" width="369" height="694" frameX="-127" frameY="-25" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain up0001" x="1967" y="606" width="425" height="718" frameX="-107" frameY="0" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain up0002" x="2483" y="699" width="383" height="709" frameX="-124" frameY="-4" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain up0003" x="2483" y="0" width="424" height="699" frameX="-136" frameY="-8" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain up0004" x="2907" y="1829" width="356" height="706" frameX="-137" frameY="-1" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain up0005" x="3379" y="1147" width="366" height="657" frameX="-137" frameY="-50" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain up0006" x="2483" y="1408" width="356" height="620" frameX="-137" frameY="-87" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain up0007" x="2483" y="1408" width="356" height="620" frameX="-137" frameY="-87" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain right0000" x="0" y="545" width="626" height="586" frameX="-89" frameY="-96" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain right0001" x="1367" y="0" width="600" height="585" frameX="-89" frameY="-101" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain right0002" x="1367" y="585" width="590" height="519" frameX="-89" frameY="-98" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain right0003" x="484" y="2309" width="545" height="504" frameX="-89" frameY="-92" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain right0004" x="1566" y="1732" width="544" height="509" frameX="-89" frameY="-87" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain right0005" x="1022" y="1732" width="544" height="510" frameX="-89" frameY="-86" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain right0006" x="1022" y="1732" width="544" height="510" frameX="-89" frameY="-86" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain right0007" x="1022" y="1732" width="544" height="510" frameX="-89" frameY="-86" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain down0000" x="626" y="545" width="654" height="543" frameX="-19" frameY="-147" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain down0001" x="0" y="0" width="684" height="545" frameX="-4" frameY="-143" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain down0002" x="684" y="0" width="683" height="541" frameX="-35" frameY="-138" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain down0003" x="0" y="1732" width="517" height="577" frameX="-28" frameY="-137" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain down0004" x="3379" y="1804" width="434" height="525" frameX="-110" frameY="-137" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain down0005" x="0" y="2898" width="434" height="522" frameX="-110" frameY="-137" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain down0006" x="3379" y="2329" width="434" height="522" frameX="-110" frameY="-137" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain down0007" x="434" y="2898" width="434" height="522" frameX="-110" frameY="-137" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain left0000" x="0" y="1131" width="528" height="601" frameX="-62" frameY="-113" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain left0001" x="528" y="1131" width="524" height="581" frameX="-49" frameY="-118" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain left0002" x="517" y="1732" width="505" height="557" frameX="-35" frameY="-111" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain left0003" x="2907" y="574" width="467" height="561" frameX="-78" frameY="-107" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain left0004" x="2907" y="0" width="472" height="574" frameX="-94" frameY="-104" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain left0005" x="1052" y="1131" width="531" height="572" frameX="-92" frameY="-104" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain left0006" x="3379" y="0" width="440" height="564" frameX="-95" frameY="-104" frameWidth="720" frameHeight="720"/>
+	<SubTexture name="chain left0007" x="3379" y="0" width="440" height="564" frameX="-95" frameY="-104" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>

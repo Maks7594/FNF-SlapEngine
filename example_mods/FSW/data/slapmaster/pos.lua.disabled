@@ -1,0 +1,12 @@
+function onCreate()
+    --position boyfriend
+    setProperty('boyfriend.x', 750)
+    setProperty('boyfriend.y', 200)
+    --position dad
+    setProperty('dad.x', -200)
+    setProperty('dad.y', 0)
+    scaleObject('dad', 0.8, 0.8)
+    --position gf
+    setProperty('gf.x', 250)
+    setProperty('gf.y', 100)
+end

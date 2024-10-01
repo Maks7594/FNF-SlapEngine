@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				-23
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 16,
+			"name": "chain idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "chain left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "chain down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "chain up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-98
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "chain right",
+			"indices": []
+		}
+	],
+	"losing_colors": [
+		255,
+		241,
+		91
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/chain",
+	"shake_duration": 0,
+	"position": [
+		0,
+		0
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "chain",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		255,
+		0
+	],
+	"scale": 1
+}

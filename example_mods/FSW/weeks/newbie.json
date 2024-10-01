@@ -1,0 +1,50 @@
+{
+	"storyName": "Newbie",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "slap",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"Start Trouble",
+			"default",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Slapmaster",
+			"default",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Suprise",
+			"default",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Newbie",
+	"hiddenUntilUnlocked": false
+}
